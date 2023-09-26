@@ -62,7 +62,6 @@ int main() {
         }
 
     } while (menuLoop == 0);
-    
     printf("Encerrando...");
     free(filme);
     return 0;
